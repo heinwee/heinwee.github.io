@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+body{height:100%;}
+.index{width:100%;height:100%; background:#f9fafc;}
+#index{height:100%;}
+.headerA{width:100%;height:72px; background:#fff; top:0;z-index:888;position:fixed;}
+.wrapC{width:1200px;margin:0 auto; text-align:center;}
+.logoA{width:123px;margin-top:24px;}
+.headerB{width:100%;height:72px; background:#21292e; display:none; top:0;z-index:888;position:fixed; }
+.logoB{width:123px; float:left;margin:24px 0 0 24px;}
+.navB{ float:right;font:16px/72px microsoft yahei;color:#fff;}
+.navB li{width:80px; float:right;}
+.navB li a{width:80px;font:16px/72px microsoft yahei;color:#fff; text-align:center;}
+
+
+.navIndex{width:1200px;height:280px; position:absolute;top: 50%;
+-webkit-transform:translateY(-50%);
+-moz-transform:translateY(-50%);
+-ms-transform:translateY(-50%);
+transform:translateY(-50%);}
+.navIndex li{float:left;width:240px;height:280px;margin-left:100px;font:20px/400px microsoft yahei; position:relative;  }
+.navIndex li img{width:240px; position:absolute; left:0; top:0;}
+
+
+.bgDesign{width:100%;height:800px; background:#0C0;}
+
+.bgAbout{width:100%;height:800px; background:#f00;}
