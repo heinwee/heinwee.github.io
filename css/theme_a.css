@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.header{background:#fff;height:100px;}
+a.logo{float:left;margin-top:36px;}
+.nav_a{float:right; list-style-type: none;}
+.nav_a li{float:left;font-size:16px;color:#333;}
